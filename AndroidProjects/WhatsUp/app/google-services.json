@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688585264071",
+    "project_id": "whatsup-414018",
+    "storage_bucket": "whatsup-414018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688585264071:android:a0ba12c00ceabd72d927e2",
+        "android_client_info": {
+          "package_name": "org.classapp.whatsup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBymB7mKNzS9y4vKUO3gsK4YyUpOjtp91w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
